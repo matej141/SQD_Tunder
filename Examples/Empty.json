@@ -1,0 +1,5 @@
+[
+{ "XmiId" : "NDExMDI5NTA0dW1sOkludGVyYWN0aW9uMDQvMDkvMjAxOSAyMToxODoyMy42MTM=", "XmiType" : "uml:Interaction", "lifeline" : [], "message" : [], "fragment" : [], "formalGate" : [], "covered" : [], "generalOrdering" : [], "name" : "111", "ownedElement" : [], "ownedComment" : [], "diElement" : [], "dgElement" : [], "ChildXmiElement" : [] },
+{ "XmiId" : "NTIzODY1NjB1bWw6SW50ZXJhY3Rpb24wNC8wOS8yMDE5IDIxOjE4OjIzLjYxNA==", "XmiType" : "uml:Interaction", "lifeline" : [], "message" : [], "fragment" : [], "formalGate" : [], "covered" : [], "generalOrdering" : [], "name" : "222", "ownedElement" : [], "ownedComment" : [], "diElement" : [], "dgElement" : [], "ChildXmiElement" : [] },
+{ "XmiId" : "LTMwNjI1NjM4NHVtbDpJbnRlcmFjdGlvbjA0LzA5LzIwMTkgMjE6MTg6MjMuNjE0", "XmiType" : "uml:Interaction", "lifeline" : [], "message" : [], "fragment" : [], "formalGate" : [], "covered" : [], "generalOrdering" : [], "name" : "333", "ownedElement" : [], "ownedComment" : [], "diElement" : [], "dgElement" : [], "ChildXmiElement" : [] },
+]
